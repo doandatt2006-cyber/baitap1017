@@ -20,5 +20,16 @@
 ![Thực thi chức năng](./ảnh/bai4.9test.PNG)
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./ảnh/bai4.9loi.png)
+![Kiểm tra lỗi](./ảnh/bai4.9loi.PNG)
+
+### Bai 2
+
+### 1. Ảnh màn hình Giao diện chính
+![Giao diện chính](./ảnh/bai2.PNG)
+
+### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+![Thực thi chức năng](./ảnh/bai2test.PNG)
+
+### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+![Kiểm tra lỗi](./ảnh/bai2loi.PNG)
 
