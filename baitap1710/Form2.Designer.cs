@@ -186,7 +186,7 @@
             // 
             // btnXoa
             // 
-            btnXoa.Location = new Point(167, 384);
+            btnXoa.Location = new Point(156, 384);
             btnXoa.Name = "btnXoa";
             btnXoa.Size = new Size(94, 29);
             btnXoa.TabIndex = 14;
@@ -195,7 +195,7 @@
             // 
             // btnLamMoi
             // 
-            btnLamMoi.Location = new Point(168, 428);
+            btnLamMoi.Location = new Point(156, 428);
             btnLamMoi.Name = "btnLamMoi";
             btnLamMoi.Size = new Size(94, 29);
             btnLamMoi.TabIndex = 15;
@@ -204,7 +204,7 @@
             // 
             // btnDaTra
             // 
-            btnDaTra.Location = new Point(290, 384);
+            btnDaTra.Location = new Point(267, 384);
             btnDaTra.Name = "btnDaTra";
             btnDaTra.Size = new Size(135, 29);
             btnDaTra.TabIndex = 16;
@@ -234,10 +234,10 @@
             // dgvPhieuMuon
             // 
             dgvPhieuMuon.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvPhieuMuon.Location = new Point(431, 116);
+            dgvPhieuMuon.Location = new Point(408, 116);
             dgvPhieuMuon.Name = "dgvPhieuMuon";
             dgvPhieuMuon.RowHeadersWidth = 51;
-            dgvPhieuMuon.Size = new Size(486, 356);
+            dgvPhieuMuon.Size = new Size(579, 356);
             dgvPhieuMuon.TabIndex = 19;
             // 
             // errorProvider1
@@ -250,7 +250,7 @@
             statusStrip1.Items.AddRange(new ToolStripItem[] { lblThongKe });
             statusStrip1.Location = new Point(0, 475);
             statusStrip1.Name = "statusStrip1";
-            statusStrip1.Size = new Size(962, 26);
+            statusStrip1.Size = new Size(999, 26);
             statusStrip1.TabIndex = 20;
             statusStrip1.Text = "statusStrip1";
             // 
@@ -265,7 +265,7 @@
             toolStrip1.ImageScalingSize = new Size(20, 20);
             toolStrip1.Location = new Point(0, 0);
             toolStrip1.Name = "toolStrip1";
-            toolStrip1.Size = new Size(962, 25);
+            toolStrip1.Size = new Size(999, 25);
             toolStrip1.TabIndex = 21;
             toolStrip1.Text = "toolStrip1";
             // 
@@ -355,7 +355,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(962, 501);
+            ClientSize = new Size(999, 501);
             Controls.Add(label9);
             Controls.Add(label8);
             Controls.Add(label7);
